@@ -1,4 +1,5 @@
-# HTML-Projeto-GTA
+<h1>HTML-Projeto-GTA</h1>
+<h2>Sobre</h2>
 A project layout of the game GTA - Grand Theft Auto, made by devemdobro.
 
 ## Tecnologias
